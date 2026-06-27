@@ -44,7 +44,7 @@ This approach means **zero latency at inference** — the similarity matrix is c
 ```
 readmatch-book-recommender/
 ├── app.py    # Streamlit frontend (UI + inference)
-├── Book_recommendation_train.py  # Offline training pipeline
+├── train.py  # Offline training pipeline
 ├── books.pkl                     # Serialized cleaned DataFrame
 ├── similarity1.pkl               # Pre-computed cosine similarity matrix
 ├── books.xls                     # Raw dataset (CSV format, 6,800+ books)
