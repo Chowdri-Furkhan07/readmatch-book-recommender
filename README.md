@@ -19,8 +19,6 @@
 |---|---|
 | ![Hero & Search](screenshots/hero_search.png) | ![Recommendations](screenshots/recommendations.png) |
 
-> **To add your own:** run the app locally, take a screenshot of each view, and save them as `screenshots/hero_search.png` and `screenshots/recommendations.png`.
-
 ---
 
 ## 🧠 How It Works
