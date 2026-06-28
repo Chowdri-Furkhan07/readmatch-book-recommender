@@ -33,7 +33,7 @@ Raw Book Data  →  Feature Engineering (tags)  →  TF Vectorization  →  Cosi
 2. **Vectorization** - `CountVectorizer` (top 5,000 features, English stop words removed) converts tags into sparse numeric vectors.
 3. **Similarity Scoring** - `cosine_similarity` computes pairwise similarity across all books. At query time, the top-5 most similar books (excluding the input) are returned instantly from the pre-computed matrix.
 
-This approach means **zero latency at inference** — the similarity matrix is computed once at training time and serialized with `pickle`.
+This approach means **zero latency at inference** - the similarity matrix is computed once at training time and serialized with `pickle`.
 
 ---
 
@@ -44,7 +44,7 @@ readmatch-book-recommender/
 ├── app.py    # Streamlit frontend (UI + inference)
 ├── train.py  # Offline training pipeline
 ├── books.pkl                     # Serialized cleaned DataFrame
-├── similarity1.pkl               # Pre-computed cosine similarity matrix
+├── similarity.pkl               # Pre-computed cosine similarity matrix
 ├── books.xls                     # Raw dataset (CSV format, 6,800+ books)
 ├── requirements.txt              # Python dependencies
 ├── screenshots/
