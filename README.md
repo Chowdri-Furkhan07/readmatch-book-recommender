@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" />
 </p>
 
-> **ReadMatch** is a content-based book recommendation system that surfaces five personalized book suggestions using NLP-driven similarity on a dataset of 6,800+ titles — deployed as an interactive Streamlit web application.
+> **ReadMatch** is a content-based book recommendation system that surfaces five personalized book suggestions using NLP-driven similarity on a dataset of 6,800+ titles - deployed as an interactive Streamlit web application.
 
 ---
 
