@@ -31,7 +31,7 @@ Raw Book Data  →  Feature Engineering (tags)  →  TF Vectorization  →  Cosi
 
 1. **Tag Construction** - Each book's `title`, `authors`, `categories`, and `description` are concatenated into a single unified text feature (`tags`).
 2. **Vectorization** - `CountVectorizer` (top 5,000 features, English stop words removed) converts tags into sparse numeric vectors.
-3. **Similarity Scoring** — `cosine_similarity` computes pairwise similarity across all books. At query time, the top-5 most similar books (excluding the input) are returned instantly from the pre-computed matrix.
+3. **Similarity Scoring** - `cosine_similarity` computes pairwise similarity across all books. At query time, the top-5 most similar books (excluding the input) are returned instantly from the pre-computed matrix.
 
 This approach means **zero latency at inference** — the similarity matrix is computed once at training time and serialized with `pickle`.
 
