@@ -93,7 +93,7 @@ python Book_recommendation_train.py
 ```
 
 This generates two files:
-- `books.pkl` — cleaned book metadata DataFrame
+- `books.pkl` - cleaned book metadata DataFrame
 - `similarity1.pkl` — (6,800 × 6,800) cosine similarity matrix
 
 ### 4. Launch the app
