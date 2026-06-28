@@ -1,4 +1,4 @@
-# 📚 ReadMatch — AI-Powered Book Recommendation Engine
+# 📚 ReadMatch - AI-Powered Book Recommendation Engine
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white" />
