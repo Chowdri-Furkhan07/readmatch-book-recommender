@@ -86,7 +86,7 @@ pip install -r requirements.txt
 ```
 
 ### 3. Run the training pipeline
-> Skip this step if `books.pkl` and `similarity1.pkl` are already present in the repo.
+> Skip this step if `books.pkl` and `similarity.pkl` are already present in the repo.
 
 ```bash
 python train.py
