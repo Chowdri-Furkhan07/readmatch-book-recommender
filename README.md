@@ -146,7 +146,8 @@ The dataset (`books.xls`) contains **6,800+ books** with the following fields:
 ## 👤 Author
 
 **Chowdri Furkhan**
-Final-Year B.E. — Artificial Intelligence & Machine Learning
+
+Artificial Intelligence & Machine Learning
 Vijaya Vittala Institute of Technology, Bengaluru
 
 <p>
