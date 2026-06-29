@@ -148,7 +148,6 @@ The dataset (`books.xls`) contains **6,800+ books** with the following fields:
 **Chowdri Furkhan**
 
 Artificial Intelligence & Machine Learning
-Vijaya Vittala Institute of Technology, Bengaluru
 
 <p>
   <a href="https://linkedin.com/in/chowdri-furkhan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" /></a>
