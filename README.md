@@ -89,7 +89,7 @@ pip install -r requirements.txt
 > Skip this step if `books.pkl` and `similarity1.pkl` are already present in the repo.
 
 ```bash
-python Book_recommendation_train.py
+python train.py
 ```
 
 This generates two files:
