@@ -98,7 +98,7 @@ This generates two files:
 
 ### 4. Launch the app
 ```bash
-streamlit run Book_recommendation_app.py
+streamlit run app.py
 ```
 
 The app opens at `http://localhost:8501`.
