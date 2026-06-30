@@ -129,7 +129,7 @@ The dataset (`books.xls`) contains **6,800+ books** with the following fields:
 - **Instant Inference** - pre-computed similarity matrix ensures sub-second response time
 - **Cover Art Display** - fetches and renders book covers via thumbnail URLs
 - **Graceful Fallback** - displays a placeholder icon when cover images are unavailable
-- **Responsive UI** — clean dark-theme interface with mobile-friendly column layout
+- **Responsive UI** - clean dark-theme interface with mobile-friendly column layout
 
 ---
 
