@@ -135,7 +135,7 @@ The dataset (`books.xls`) contains **6,800+ books** with the following fields:
 
 ## 🧩 Potential Enhancements
 
-- [ ] Add collaborative filtering layer (user–item matrix) for hybrid recommendations
+- [ ] Add collaborative filtering layer (user-item matrix) for hybrid recommendations
 - [ ] Integrate a search-as-you-type autocomplete with fuzzy matching
 - [ ] Deploy on Streamlit Cloud / Hugging Face Spaces with CI/CD
 - [ ] Add author-based filtering and genre drill-down sidebar
